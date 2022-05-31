@@ -1,0 +1,40 @@
+
+body{
+background-color:#181818;
+
+
+}
+
+
+
+
+
+    .tablo h1 {
+    text-align:center;
+    color:#e2b90b;
+    }
+
+    .tablo{
+    color:white;
+    text-align:center;
+    position:absolute;
+    margin-top:80px;
+    margin-left: 110px;
+    }
+
+    .tablo h4{
+
+        color:#feff9c;
+        display:flex;
+        justify-content:center;
+    }
+
+    
+    .tablo p2{
+        
+        font-size:x-large;
+        text-align:center;
+    }
+  
+    
+
