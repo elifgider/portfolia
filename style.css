@@ -1,14 +1,7 @@
 
 body{
 background-color:#181818;
-
-
 }
-
-
-
-
-
     .tablo h1 {
     text-align:center;
     color:#e2b90b;
@@ -23,15 +16,13 @@ background-color:#181818;
     }
 
     .tablo h4{
-
         color:#feff9c;
         display:flex;
         justify-content:center;
     }
 
-    
     .tablo p2{
-        
+
         font-size:x-large;
         text-align:center;
     }
